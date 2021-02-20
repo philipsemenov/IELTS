@@ -128,7 +128,7 @@ Contest is being organised by our school. The best project about the environment
 7. Lessons are taught at weddings.
 8. Shark are found at school.
 
-# :hamster::hamster::hamster:Worksheet 24
+# :hamster::hamster::hamster: Worksheet 24
 > Passive voice
 
 ### A) Read each sentence. Then make two new sentences in the PASSIVE:
