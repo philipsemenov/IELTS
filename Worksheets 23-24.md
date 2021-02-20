@@ -2,7 +2,6 @@
 > Passive voice
 
 ### A) Fill in the PASSIVE in the appropriate tense:
-1. *Example*
 2. Pyramids were built by Egyptians.
 3. Milk is produced by cows.
 4. Coffee is grown in Brazil.
@@ -17,7 +16,6 @@
 There is a chimpanzee which ***is called*** (call) “Bubbles”. ***It is owned*** (own) by Michael Johnson. It ***is kept*** (keep) in his home. It ***is fed*** (feed) every day by Michael Johnson himself. It ***is always dressed*** (always / dress) in funny clothes. It ***is said*** (said) that “Bubbles” is Michael Johnson’s only friend.
 
 ### C) Look at the Hotel Information table and write sentences as in the example:
-1. *Example*
 2. Dinner is served in the Main Restaurant from 8 to 10 pm.
 3. Newspapers are purchased at the reception desk.
 4. Phone calls can be made at the reception desk.
@@ -29,7 +27,6 @@ There is a chimpanzee which ***is called*** (call) “Bubbles”. ***It is owned
 Two men ***were seen*** (see) breaking into a house in my street last night. The police ***ware called***. (call) and they arrived very quickly. One man ***was caught*** (catch) immediately. The other escaped, but he ***was found*** (find) very soon. Both men ***were taken*** (take) to the police station where they ***were questioned*** (question) separately by a police officer. The two men ***were charged*** (charge) with burglary.
 
 ### E) Turn from ACTIVE into PASSIVE:
-1. *Example*
 2. Some advice will be given by Dr. Brown.
 3. The hotel will be decorated by a famous designer.
 4. “E.T.” was directed by Steven Spielberg.
@@ -41,7 +38,6 @@ Two men ***were seen*** (see) breaking into a house in my street last night. The
 10. That picture was painted by Picasso.
 
 ### :hamster: F) Using the PASSIVE, ask questions to which the bold type words are answers:
-1. *Example*
 2. Where are your money kept?
 3. Who was he stung by?
 4. Where is the Italian spoken?
@@ -52,7 +48,6 @@ Two men ***were seen*** (see) breaking into a house in my street last night. The
 9. Where are bananas grown?
 
 ###  G) Turn from ACTIVE into PASSIVE:
-1. *Example*
 2. This plant should be watered daily.
 3. This garage is ought to be painted by our neighbour.
 4. These books have to be returned to the library.
@@ -132,8 +127,6 @@ Contest is being organised by our school. The best project about the environment
 > Passive voice
 
 ### A) Read each sentence. Then make two new sentences in the PASSIVE:
-1. *Example*
-___
 1. It is thought that Hakan is a good football player.
 2. Hakan is thought to be a good football player.
 ___
