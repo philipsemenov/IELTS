@@ -1,6 +1,8 @@
 > The diagrams below show the stages and equipment used in the cement-making process, and how cement is used to produce concrete for building purposes.
 > Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
 
+![image](/images/t1_1.png)
+
 The diagram above shows the process of making the concrete and its main component cement.
 
 Overall, cement production is a highly complicated process, combining various technologies, while concrete is a result of mixing everything at once.
