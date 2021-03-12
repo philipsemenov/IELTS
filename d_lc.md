@@ -8,9 +8,9 @@ Life of bees starts when every 72 hours an average female insect lays a couple o
 After described processes comes a penultimate step of the development and a young adult emerges. On this point the characteristics of a bee, such as stripes, become visible. In the end it takes averagely four days to fully mature. After that female spices lay eggs and cycle repeats itself.
 
 > 26 minutes\
-> 154 word
+> 154 words
 
 ### Note:
 It took me so long for sevelar reasons:
 1. I did not use a word counter and wrote a shorter text than needed.
-2. I was not sure about how should i interpret the nymph part of the cycle due to poor diagram.
+2. I was not sure about how should I interpret the nymph part of the cycle due to poor diagram.
