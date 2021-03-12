@@ -12,4 +12,4 @@ After described processes comes a penultimate step of the development and a youn
 
 Note: it took me so long for sevelar reasons:
 1. I did not use a word counter and wrote a shorter text than needed.
-2. I was not sure about how sould i interpet the nympth part of the cycle due to poor diagram.
+2. I was not sure about how should i interpret the nymph part of the cycle due to poor diagram.
